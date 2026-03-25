@@ -325,5 +325,3 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 - Original paper: *Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection* — Little MA et al., 2007
 
 ---
-
-*Built with ❤️ as part of ProjectGurukul*
